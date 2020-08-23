@@ -51,8 +51,8 @@ import java.util.Properties;
 
 public final class Nxt {
 
-    public static final String VERSION = "1.11.15";
-    public static final String APPLICATION = "NxtClone";
+    public static final String VERSION = "1.00.01";
+    public static final String APPLICATION = "OmnisChain";
 
     private static volatile Time time = new Time.EpochTime();
 
